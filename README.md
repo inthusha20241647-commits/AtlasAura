@@ -10,11 +10,15 @@ AtlasAura is a responsive travel website designed to help users explore destinat
 
 ### 🖥️ Desktop View
 
-![AtlasAura Desktop Screenshot](./images/desktop.png)
+<div align="center">
+  <img src="./images/desktop.png" alt="AtlasAura Desktop View" width="800">
+</div>
 
 ### 📱 Mobile View
 
-![AtlasAura Mobile Screenshot](./images/mobile.png)
+<div align="center">
+  <img src="./images/mobile.png" alt="AtlasAura Mobile View" width="400">
+</div>
 
 ## ✨ Features
 
