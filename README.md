@@ -1,25 +1,32 @@
 # 🌍 AtlasAura Trip Website
 
-AtlasAura is a responsive travel and exploration website designed to help users discover destinations, activities, hotels, restaurants, cruises, and travel experiences.
-
-The website features a modern travel-focused interface with destination search, activity categories, experience cards, and responsive layouts for different screen sizes.
+AtlasAura is a responsive travel website designed to help users explore destinations, activities, hotels, restaurants, cruises, and travel experiences.
 
 ## 🔗 Live Website
 
 👉 https://inthusha20241647-commits.github.io/AtlasAura/
 
+## 📸 Screenshots
+
+### 🖥️ Desktop View
+
+![AtlasAura Desktop Screenshot](./screenshots/desktop.png)
+
+### 📱 Mobile View
+
+![AtlasAura Mobile Screenshot](./screenshots/mobile.png)
+
 ## ✨ Features
 
-* 🌍 Travel destination search interface
+* 🌍 Destination search interface
 * 🤖 AI search option
 * 🔎 Search functionality UI
-* 🏨 Hotels, restaurants and cruise categories
-* 🚲 Bike tour experience section
+* 🏨 Hotels, restaurants, and cruise categories
+* 🚲 Travel experience sections
 * 📍 Experiences near Colombo
 * ⭐ Ratings and pricing cards
 * 📱 Responsive design
 * 🖼️ Travel image gallery
-* 🔗 Social media section
 * 📌 Sticky navigation bar
 
 ## 🛠️ Technologies Used
@@ -31,66 +38,25 @@ The website features a modern travel-focused interface with destination search, 
 * Media Queries
 * Google Fonts
 
-## 📂 Project Structure
-
-```text
-AtlasAura/
-│
-├── index.html
-├── style.css
-│
-├── images/
-│   ├── image_1.jpg
-│   ├── image1.jpg
-│   ├── image10.jpg
-│   ├── image11.jpg
-│   ├── image13.jpg
-│   ├── image14.jpg
-│   ├── image15.jpg
-│   ├── image19.jpg
-│   ├── image20.jpg
-│   ├── image21.jpg
-│   ├── image22.jpg
-│   ├── image24.jpg
-│   ├── golf_cart.jpg
-│   ├── search.jpg
-│   ├── Global-Message.jpg
-│   └── ...
-│
-└── README.md
-```
-
 ## 🚀 How to Run
 
-1. Clone the repository
-2. Open the project
-3. Open in VS Code
+1. Clone the repository.
+2. Open the project in VS Code.
+3. Open `index.html` in your browser.
 
-### 4. Run the website
-
-Open `index.html` in your browser.
-
-You can also use the **Live Server** extension in VS Code for easier development.
+You can also use the **Live Server** extension in VS Code.
 
 ## 📱 Responsive Design
 
-AtlasAura is designed to work across different screen sizes.
+AtlasAura is designed for:
 
 * 💻 Desktop
 * 💻 Laptop
 * 📱 Tablet
 * 📱 Mobile
 
-CSS media queries are used to adjust navigation, image cards, layouts, spacing, and typography for smaller screens.
+The layout adapts using CSS media queries.
 
 ## 🎯 Project Purpose
 
-The purpose of AtlasAura is to create a visually appealing travel website interface that allows users to explore travel destinations and discover different activities and experiences.
-
-## 👩‍💻 Author
-
-**Inthusha**
-
----
-
-⭐ If you like this project, feel free to give the repository a star!
+A front-end travel website project created to practice responsive web design, layouts, navigation, cards, search interfaces, and modern website styling.
