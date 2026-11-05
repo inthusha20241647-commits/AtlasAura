@@ -6,10 +6,18 @@ AtlasAura is a responsive travel discovery website designed to help users explor
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-orange?style=for-the-badge&logo=github)](https://inthusha20241647-commits.github.io/AtlasAura/)
 
-📸 Screenshots
+## 📸 Screenshots
+
+### 🖥️ Desktop View
 
 <p align="center">
-  <img src="./images/desktop.png" alt="AtlasAura Desktop View" width="800">
+  <img src="./images/desktop.png" alt="AtlasAura Desktop View" width="850">
+</p>
+
+### 📱 Mobile View
+
+<p align="center">
+  <img src="./images/mobile.png" alt="AtlasAura Mobile View" width="350">
 </p>
 
 ## ✨ Features
