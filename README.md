@@ -1,66 +1,53 @@
-# 🌍 AtlasAura Trip Website
+# 🌍 AtlasAura – Travel Discovery Website
 
-AtlasAura is a responsive travel website designed to help users explore destinations, activities, hotels, restaurants, cruises, and travel experiences.
+AtlasAura is a responsive travel discovery website designed to help users explore destinations, travel experiences, hotels, restaurants, and cruises. It features a modern interface with destination search, category sections, travel highlights, and visually engaging content cards.
 
-## 🔗 Live Website
+## 🌐 Live Demo
 
-👉 https://inthusha20241647-commits.github.io/AtlasAura/
-
-## 📸 Screenshots
-
-### 🖥️ Desktop View
-
-<div align="center">
-  <img src="./images/desktop.png" alt="AtlasAura Desktop View" width="800">
-</div>
-
-### 📱 Mobile View
-
-<div align="center">
-  <img src="./images/mobile.png" alt="AtlasAura Mobile View" width="400">
-</div>
+[![Live Demo](https://img.shields.io/badge/Live-Demo-orange?style=for-the-badge&logo=github)](https://inthusha20241647-commits.github.io/AtlasAura/)
 
 ## ✨ Features
 
-* 🌍 Destination search interface
-* 🤖 AI search option
-* 🔎 Search functionality UI
-* 🏨 Hotels, restaurants, and cruise categories
-* 🚲 Travel experience sections
-* 📍 Experiences near Colombo
-* ⭐ Ratings and pricing cards
-* 📱 Responsive design
-* 🖼️ Travel image gallery
-* 📌 Sticky navigation bar
+- 🌍 **Destination Search:** Provides an interface for exploring travel destinations.
+- 🤖 **AI Search Option:** Includes an AI-assisted search interface.
+- 🔎 **Search Interface:** Allows users to interact with the destination search section.
+- 🏨 **Travel Categories:** Features hotels, restaurants, and cruises.
+- 🚲 **Travel Experiences:** Showcases different travel activities and experiences.
+- 📍 **Nearby Experiences:** Highlights travel experiences around Colombo.
+- ⭐ **Ratings and Pricing Cards:** Presents travel-related ratings and pricing information.
+- 🖼️ **Travel Image Gallery:** Displays destination and travel-related images.
+- 📌 **Sticky Navigation:** Keeps the navigation bar accessible while scrolling.
+- 📱 **Responsive Design:** Adapts the website layout to different screen sizes.
 
 ## 🛠️ Technologies Used
 
-* HTML5
-* CSS3
-* Flexbox
-* CSS Grid
-* Media Queries
-* Google Fonts
+- HTML5
+- CSS3
+- CSS Flexbox
+- CSS Grid
+- CSS Media Queries
+- Google Fonts
 
-## 🚀 How to Run
+## 📂 Project Structure
 
-1. Clone the repository.
-2. Open the project in VS Code.
-3. Open `index.html` in your browser.
+```text
+AtlasAura/
+│
+├── images/
+├── index.html
+├── style.css
+└── README.md
+```
 
-You can also use the **Live Server** extension in VS Code.
+## 🎯 Learning Objectives
 
-## 📱 Responsive Design
+- Build a multi-section website using HTML and CSS.
+- Practice responsive web design using CSS media queries.
+- Understand CSS Flexbox and Grid layouts.
+- Create structured navigation and content sections.
+- Design search interfaces and reusable content cards.
+- Improve visual presentation through typography, images, and spacing.
 
-AtlasAura is designed for:
+---
 
-* 💻 Desktop
-* 💻 Laptop
-* 📱 Tablet
-* 📱 Mobile
-
-The layout adapts using CSS media queries.
-
-## 🎯 Project Purpose
-
-A front-end travel website project created to practice responsive web design, layouts, navigation, cards, search interfaces, and modern website styling.
+*AtlasAura is a frontend development project created as part of my continuous learning journey.*
